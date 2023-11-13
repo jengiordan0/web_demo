@@ -1,1 +1,1 @@
-# Python implementation of HH Neuron with modified potassium parameters. 
+# Python implementation of the Hodgkin-Huxley model for neuron spiking. In this code, the potassium parameters have been reduced to reflect conditions associated with neurodegeneration. Presented during Biological Complexity Final Project, Spring 2023. 
